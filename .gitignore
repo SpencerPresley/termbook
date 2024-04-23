@@ -37,3 +37,4 @@ yarn-error.log*
 next-env.d.ts
 empty
 filter.sh
+filter2.sh
