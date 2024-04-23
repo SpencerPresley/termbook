@@ -14,7 +14,7 @@ and
 chmod u+x filer.sh
 ```
 
-4. Run [Link to Filter Script](filter.sh) 
+4. Run [Filter Script](filter.sh) 
 
 ```bash
 ./filter.sh
